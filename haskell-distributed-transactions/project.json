@@ -1,0 +1,8 @@
+{
+  "id": "23",
+  "name": "23-haskell-distributed-transactions",
+  "title": "High-Assurance Distributed Transaction Platform",
+  "language": "Haskell",
+  "domain": "Distributed Consensus & Formal Transactional Processing",
+  "description": "Purely functional Two-Phase Commit (2PC) and Software Transactional Memory (STM) platform guaranteeing ACID transactional semantics across distributed microservices."
+}
