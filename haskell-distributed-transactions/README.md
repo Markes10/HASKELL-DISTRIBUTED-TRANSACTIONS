@@ -1,4 +1,4 @@
-# 23 - Purely Functional Two-Phase Commit & STM Protocol (Haskell)
+# Purely Functional Two-Phase Commit & STM Protocol (Haskell)
 
 ## Executive Overview
 A fault-tolerant distributed transaction coordinator written in **pure Haskell (GHC 9.4+)**. It combines the **Two-Phase Commit (2PC)** consensus protocol with **Software Transactional Memory (STM)** (`TVar`, `atomically`, `retry`) to guarantee ACID properties and deadlock-free atomic cross-shard financial settlements.
